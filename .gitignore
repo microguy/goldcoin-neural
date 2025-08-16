@@ -1,0 +1,43 @@
+# Rust build artifacts
+/target/
+**/*.rs.bk
+*.pdb
+
+# Cargo lock for libraries
+Cargo.lock
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+
+# Logs
+*.log
+
+# Config files with passwords
+goldcoin-neural.conf
+*.key
+*.pem
+
+# Test output
+test-results/
+coverage/
+
+# Build directories
+build/
+dist/
+*.egg-info/
