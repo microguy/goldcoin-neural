@@ -1,0 +1,43 @@
+version: '3.8'
+
+services:
+  goldcoin-neural:
+    build: .
+    container_name: goldcoin-neural-test
+    restart: unless-stopped
+    ports:
+      - "8122:8122"  # Mining RPC port
+    volumes:
+      - ./goldcoin-neural.conf:/home/goldcoin/.goldcoin-neural.conf:ro
+      - goldcoin-data:/home/goldcoin/.goldcoin
+    environment:
+      - RUST_LOG=info
+      - GOLDCOIN_NETWORK=mainnet
+      - POOL_MODE=true
+    networks:
+      - pool-network
+    mem_limit: 1g
+    cpus: '0.5'  # Limit CPU to not affect production
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+  # Optional: Monitor container for testing
+  monitor:
+    image: prom/node-exporter:latest
+    container_name: goldcoin-monitor
+    ports:
+      - "9100:9100"
+    networks:
+      - pool-network
+    profiles:
+      - monitoring
+
+networks:
+  pool-network:
+    driver: bridge
+
+volumes:
+  goldcoin-data:
