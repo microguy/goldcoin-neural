@@ -1,0 +1,36 @@
+[package]
+name = "goldcoin-neural-blockchain"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# Core dependency
+goldcoin-neural-core = { path = "../core" }
+
+# Bitcoin/Blockchain (simplified for initial build)
+# bitcoin = "0.31"
+# bitcoincore-rpc = "0.18"
+# electrum-client = "0.18"
+
+# Async runtime
+tokio = { version = "1.35", features = ["full"] }
+async-trait = "0.1"
+
+# Serialization
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+
+# Error handling
+anyhow = "1.0"
+thiserror = "1.0"
+
+# Logging
+tracing = "0.1"
+
+# Goldcoin-specific
+hex = "0.4"
+base58 = "0.2"
+sha2 = "0.10"
+
+# Time
+chrono = { version = "0.4", features = ["serde"] }

@@ -1,0 +1,10 @@
+/home/microguy/git/microguy/goldcoin-neural/target/debug/deps/bitcoin_private-2ea5d43aa177e071.d: /home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitcoin-private-0.1.0/src/lib.rs /home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitcoin-private-0.1.0/src/error.rs /home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitcoin-private-0.1.0/src/hex/mod.rs /home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitcoin-private-0.1.0/src/hex/buf_encoder.rs /home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitcoin-private-0.1.0/src/hex/display.rs /home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitcoin-private-0.1.0/src/macros.rs
+
+/home/microguy/git/microguy/goldcoin-neural/target/debug/deps/libbitcoin_private-2ea5d43aa177e071.rmeta: /home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitcoin-private-0.1.0/src/lib.rs /home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitcoin-private-0.1.0/src/error.rs /home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitcoin-private-0.1.0/src/hex/mod.rs /home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitcoin-private-0.1.0/src/hex/buf_encoder.rs /home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitcoin-private-0.1.0/src/hex/display.rs /home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitcoin-private-0.1.0/src/macros.rs
+
+/home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitcoin-private-0.1.0/src/lib.rs:
+/home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitcoin-private-0.1.0/src/error.rs:
+/home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitcoin-private-0.1.0/src/hex/mod.rs:
+/home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitcoin-private-0.1.0/src/hex/buf_encoder.rs:
+/home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitcoin-private-0.1.0/src/hex/display.rs:
+/home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitcoin-private-0.1.0/src/macros.rs:

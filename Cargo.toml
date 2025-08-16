@@ -1,0 +1,38 @@
+[package]
+name = "goldcoin-neural"
+version = "0.1.0"
+edition = "2021"
+authors = ["GoldCoin Neural Team"]
+description = "The World's First AI-Native Cryptocurrency Wallet"
+
+[workspace]
+members = [
+    "crates/core",
+    "crates/blockchain",
+    "crates/ai",
+    "crates/interface",
+]
+
+[dependencies]
+goldcoin-neural-core = { path = "crates/core" }
+goldcoin-neural-blockchain = { path = "crates/blockchain" }
+goldcoin-neural-ai = { path = "crates/ai" }
+goldcoin-neural-interface = { path = "crates/interface" }
+tokio = { version = "1.35", features = ["full"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+anyhow = "1.0"
+tracing = "0.1"
+tracing-subscriber = "0.3"
+async-trait = "0.1"
+clap = { version = "4.0", features = ["derive"] }
+toml = "0.8"
+
+[[bin]]
+name = "goldcoin-neurald"
+path = "src/bin/goldcoin-neurald.rs"
+
+[profile.release]
+opt-level = 3
+lto = true
+codegen-units = 1

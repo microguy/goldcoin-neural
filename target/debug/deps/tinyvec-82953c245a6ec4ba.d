@@ -1,0 +1,11 @@
+/home/microguy/git/microguy/goldcoin-neural/target/debug/deps/tinyvec-82953c245a6ec4ba.d: /home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.9.0/src/lib.rs /home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.9.0/src/array.rs /home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.9.0/src/array/generated_impl.rs /home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.9.0/src/arrayvec.rs /home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.9.0/src/arrayvec_drain.rs /home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.9.0/src/slicevec.rs /home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.9.0/src/tinyvec.rs
+
+/home/microguy/git/microguy/goldcoin-neural/target/debug/deps/libtinyvec-82953c245a6ec4ba.rmeta: /home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.9.0/src/lib.rs /home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.9.0/src/array.rs /home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.9.0/src/array/generated_impl.rs /home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.9.0/src/arrayvec.rs /home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.9.0/src/arrayvec_drain.rs /home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.9.0/src/slicevec.rs /home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.9.0/src/tinyvec.rs
+
+/home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.9.0/src/lib.rs:
+/home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.9.0/src/array.rs:
+/home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.9.0/src/array/generated_impl.rs:
+/home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.9.0/src/arrayvec.rs:
+/home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.9.0/src/arrayvec_drain.rs:
+/home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.9.0/src/slicevec.rs:
+/home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.9.0/src/tinyvec.rs:

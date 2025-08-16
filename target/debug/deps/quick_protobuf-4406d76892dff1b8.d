@@ -1,0 +1,10 @@
+/home/microguy/git/microguy/goldcoin-neural/target/debug/deps/quick_protobuf-4406d76892dff1b8.d: /home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quick-protobuf-0.8.1/src/lib.rs /home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quick-protobuf-0.8.1/src/errors.rs /home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quick-protobuf-0.8.1/src/message.rs /home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quick-protobuf-0.8.1/src/reader.rs /home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quick-protobuf-0.8.1/src/sizeofs.rs /home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quick-protobuf-0.8.1/src/writer.rs
+
+/home/microguy/git/microguy/goldcoin-neural/target/debug/deps/libquick_protobuf-4406d76892dff1b8.rmeta: /home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quick-protobuf-0.8.1/src/lib.rs /home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quick-protobuf-0.8.1/src/errors.rs /home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quick-protobuf-0.8.1/src/message.rs /home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quick-protobuf-0.8.1/src/reader.rs /home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quick-protobuf-0.8.1/src/sizeofs.rs /home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quick-protobuf-0.8.1/src/writer.rs
+
+/home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quick-protobuf-0.8.1/src/lib.rs:
+/home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quick-protobuf-0.8.1/src/errors.rs:
+/home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quick-protobuf-0.8.1/src/message.rs:
+/home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quick-protobuf-0.8.1/src/reader.rs:
+/home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quick-protobuf-0.8.1/src/sizeofs.rs:
+/home/microguy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quick-protobuf-0.8.1/src/writer.rs:

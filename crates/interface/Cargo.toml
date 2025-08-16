@@ -1,0 +1,50 @@
+[package]
+name = "goldcoin-neural-interface"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# Core dependencies
+goldcoin-neural-core = { path = "../core" }
+goldcoin-neural-blockchain = { path = "../blockchain" }
+goldcoin-neural-ai = { path = "../ai" }
+
+# Web framework (simplified for initial build)
+# axum = "0.7"
+# tower = "0.4"
+# tower-http = { version = "0.5", features = ["cors", "fs"] }
+
+# WebAssembly (simplified for initial build)
+# wasm-bindgen = "0.2"
+# wasm-bindgen-futures = "0.4"
+# web-sys = "0.3"
+
+# gRPC (simplified for initial build)
+# tonic = "0.10"
+# prost = "0.12"
+
+# WebSockets (simplified for initial build)
+# tokio-tungstenite = "0.21"
+
+# Voice/Audio (simplified for initial build)
+# cpal = "0.15"
+# hound = "3.5"
+
+# Async runtime
+tokio = { version = "1.35", features = ["full"] }
+async-trait = "0.1"
+
+# Serialization
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+
+# Error handling
+anyhow = "1.0"
+thiserror = "1.0"
+
+# Logging
+tracing = "0.1"
+
+# For RPC server
+warp = "0.3"
+base64 = "0.21"
